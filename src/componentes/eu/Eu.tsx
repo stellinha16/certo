@@ -1,4 +1,4 @@
-import './eu.css'    
+import './Eu.css'    
 type EuProps ={
     titulo:string,
     sinopse:string,
