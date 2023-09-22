@@ -1,0 +1,35 @@
+footer{
+    position: absolute;
+    bottom: -200%;
+    background-color:  #101820;
+    width: 100%;
+    justify-content: space-evenly ;
+    display: flex;
+    height: 25vh;
+}
+footer ul li a{
+    padding-top: 2vh;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    margin-right: 120px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+footer ul{
+    list-style: none;
+    color: #afafaf;
+}
+footer h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #e250a0;
+
+}
+.footer-img{
+    width:9vw;
+    position:absolute;
+    left:0;
+    bottom: 0;
+    margin-left: 45px;
+    margin-bottom: 5vh;
+  }
