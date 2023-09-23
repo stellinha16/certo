@@ -19,6 +19,30 @@ export default function Main() {
             sinopse: "Possuo 10 anos de experiência como bailarina, com graduação em ballet. Instrutora de ballet e jazz, ministrando aulas para bebês, crianças e adultos, compartilhando meu conhecimento e paixão pela dança.",
             imagem: '/quadro.jpg'
         },
+        {
+            id: 1,
+            titulo: 'Inglês',
+            sinopse: "Sou um estudante dedicado de inglês com seis anos de experiência no idioma, atualmente no nível intermediário. Meu objetivo é aprimorar minha fluência e habilidades de comunicação em inglês, e para alcançar esse objetivo, estou planejando realizar um intercâmbio.",
+            imagem: '/ingles.jpg'
+        },
+        {
+            id: 1,
+            titulo: 'Robótica',
+            sinopse: "Concluí um curso de robótica de 5 anos no SENAI, sendo consistentemente o melhor da turma. Recebi diversas medalhas por desempenho destacado em projetos durante as aulas. Participei de um torneio de robótica durante o ano, mas enfrentei desafios devido à pandemia global.",
+            imagem: '/robotica.png'
+        },
+        {
+            id: 4,
+            titulo: 'Libras',
+            sinopse: "Durante um período de dois anos, dediquei-me ao estudo da Língua Brasileira de Sinais (Libras). Esse curso foi uma experiência enriquecedora que me permitiu adquirir habilidades essenciais para a comunicação eficaz com pessoas surdas e com deficiência auditiva.",
+            imagem: '/libras.png'
+        },
+        {
+            id: 5,
+            titulo: 'Espanhol',
+            sinopse: "Estudei espanhol no IFMS por dois anos, adquirindo proficiência na língua e enriquecendo meu conhecimento cultural.",
+            imagem: '/espanhol.jpg'
+        },
     ]
 
 
