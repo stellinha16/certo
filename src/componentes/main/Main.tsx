@@ -35,7 +35,7 @@ export default function Main() {
             id: 4,
             titulo: 'Libras',
             sinopse: "Durante um período de dois anos, dediquei-me ao estudo da Língua Brasileira de Sinais (Libras). Esse curso foi uma experiência enriquecedora que me permitiu adquirir habilidades essenciais para a comunicação eficaz com pessoas surdas e com deficiência auditiva.",
-            imagem: '/libras.png'
+            imagem: '/LIBRAS.png'
         },
         {
             id: 5,
