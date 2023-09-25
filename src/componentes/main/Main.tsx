@@ -63,7 +63,7 @@ export default function Main() {
         <div className="campo_pesquisa">
                 <input type="text"
                     className='botao_pesquisa'
-                    placeholder='Pesquise um Filme'
+                    placeholder='Pesquise um Projeto'
                     onChange={TrataTexto} />
                 {texto && <p>Resultados: {texto} </p>}
             </div>
