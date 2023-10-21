@@ -1,5 +1,5 @@
 import './Footer.css'
-import Link from './../link/Link'
+import Link from './../linknav/LinkNav'
 import loguinho from '../img/loguinho.png';
 
 export function Footer(){
@@ -13,13 +13,13 @@ export function Footer(){
         <h3>Historico</h3>
     </li>
     <li>
-        <Link texto='Ifms'/>
+        <Link url="/" texto='Ifms'/>
           </li>
           <li>
-          <Link texto='Eurico'/>
+          <Link url="/" texto='Eurico'/>
           </li>
           <li>
-          <Link texto='Juracy'/>
+          <Link url="/" texto='Juracy'/>
           </li>
     </ul>
 
@@ -28,13 +28,13 @@ export function Footer(){
         <h3> Ballet</h3>
     </li>
     <li>
-        <Link texto='Apresentações'/>
+        <Link url="/" texto='Apresentações'/>
           </li>
           <li>
-          <Link texto='Medalhas'/>
+          <Link url="/" texto='Medalhas'/>
           </li>
           <li>
-          <Link texto='Viagens'/>
+          <Link url="/" texto='Viagens'/>
           </li>
     </ul>
 
@@ -43,13 +43,13 @@ export function Footer(){
         <h3>Sobre mim</h3>
     </li>
     <li>
-        <Link texto='Familia'/>
+        <Link url="/" texto='Familia'/>
           </li>
           <li>
-          <Link texto='16y'/>
+          <Link url="/" texto='16y'/>
           </li>
           <li>
-          <Link texto='Rede Sociais'/>
+          <Link url="/" texto='Rede Sociais'/>
           </li>
     </ul>
 
@@ -58,13 +58,13 @@ export function Footer(){
         <h3>Termos</h3>
     </li>
     <li>
-        <Link texto='Suporte'/>
+        <Link url="/" texto='Suporte'/>
           </li>
           <li>
-          <Link texto='Cookies'/>
+          <Link url="/" texto='Cookies'/>
           </li>
           <li>
-          <Link texto='Acessibilidade'/>
+          <Link url="/" texto='Acessibilidade'/>
           </li>
     </ul>
     </footer>

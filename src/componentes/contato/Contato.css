@@ -1,0 +1,55 @@
+.tudo{
+    margin-bottom: 25vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20vh;
+    border: 3px solid #e250a0;
+    border-radius: 100px;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    background-color: #101820;
+}
+
+
+.Nomezinho {
+    color: #e2c4ee;
+    font-size: 30px;
+    margin-bottom: 15px;
+
+}
+
+.tituloinput {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+    width: 50vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #e2c4ee;
+    
+}
+
+.inputfooter {
+    border-radius: 3px;
+    padding: 5px 10px;
+    font-size: 14px;
+    margin-top: 5px;
+    border: 2px solid #e250a0
+}
+
+.buttonfooter {
+    background-color: #e2c4ee;
+    color: #101820;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-bottom: 2vh;
+}
+
+.botaoenvio:hover {
+    background-color: #e250a0;
+}
